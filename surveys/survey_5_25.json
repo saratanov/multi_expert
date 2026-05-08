@@ -144,77 +144,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "wh7q2a2kegie6uk5slae35vw",
+      "id": 38729,
       "title": "Molecule 5 Route 5.1",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "gu7ww3v6ljvp7rinyexqjo7y",
+          "id": "ik4uxuepazp20zewa0sadkpw",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 5: Route 5.1</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 5. You will now evaluate the 4 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "jrckr7dvk0g2r67b2nanaqen",
+          "id": "d1fgxfscxxpyxhxy52wphzep",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P-4.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P/5P-4.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "snrqla7mytjyq3nxkrnw0ocg",
+          "id": "jxfc4040oc6mq8z00eraxhw0",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.1.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 87892,
+              "id": 59320,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 34713,
+              "id": 45472,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 32989,
+              "id": 57460,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 20220,
+              "id": 33291,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 47079,
+              "id": 14701,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 64243,
+              "id": 65054,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 53720,
+              "id": 43749,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 47058,
+              "id": 90706,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 13114,
+              "id": 87907,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 39920,
+              "id": 63758,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -231,64 +231,64 @@
           "titlePlainText": "Reaction 5.1.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "d70fwh83i6bjdi1gfvxksmmt",
+          "id": "p8m1x4w6xpfg2mlhcmwn3smx",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P-1.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P/5P-1.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ef08cgl22m037j2sst8fbab2",
+          "id": "aa7km6ynv72rg3qfvo5odquy",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.1.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 24522,
+              "id": 54623,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 70277,
+              "id": 26831,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 22306,
+              "id": 98890,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 41514,
+              "id": 33398,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 23449,
+              "id": 16812,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 63839,
+              "id": 38286,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 19610,
+              "id": 81294,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 23948,
+              "id": 49863,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 19933,
+              "id": 45435,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 29912,
+              "id": 35426,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -305,64 +305,64 @@
           "titlePlainText": "Reaction 5.1.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "ki53cj9bfjlh95gbsuosla4z",
+          "id": "p93len68f9ti1dqatefk6fpb",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P/5P-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "lkpa6acw17j64ivsfazxat17",
+          "id": "j47zd37bmkjtqajrjwd710hh",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.1.3: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 12492,
+              "id": 76339,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 81548,
+              "id": 13306,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 96099,
+              "id": 58061,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 55685,
+              "id": 78558,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 84776,
+              "id": 46497,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 27394,
+              "id": 41868,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 16817,
+              "id": 30392,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 83969,
+              "id": 73482,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 30236,
+              "id": 23943,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 89409,
+              "id": 54920,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -379,64 +379,64 @@
           "titlePlainText": "Reaction 5.1.3: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "u63ctfo75jafyd79q7u3sojy",
+          "id": "iu7f3ypiemropc9yibcna1c6",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P-3.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5P/5P-3.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "npi17q5sl0zibeem4zhxkykh",
+          "id": "ql0vlcgfn8yxgw36n8mztktz",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.1.4: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 37253,
+              "id": 70087,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 97692,
+              "id": 69674,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 36430,
+              "id": 99902,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 10779,
+              "id": 12824,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 84302,
+              "id": 76160,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 81331,
+              "id": 97119,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 14311,
+              "id": 59329,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 28066,
+              "id": 23452,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 12764,
+              "id": 37612,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 33308,
+              "id": 56417,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -453,39 +453,39 @@
           "titlePlainText": "Reaction 5.1.4: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "c06lm0zbpwvpbtuyhrbidkbx",
+          "id": "rgvkqlia7i9fzupsuqx83g44",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/5P.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "hb6hr846yt66uil7nkqae9c7",
+          "id": "mk345zffzfzv1m0o14ojw6eo",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.1: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 65765,
+              "id": 36022,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 58159,
+              "id": 42676,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 52787,
+              "id": 13916,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 85765,
+              "id": 49324,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 95668,
+              "id": 32114,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -502,42 +502,42 @@
           "titlePlainText": "Route 5.1: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "ktrhbukk29mt7dhpfmtg0hzu",
+          "id": "udhrss60mblh1nycz3omrjbp",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.1: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 90740,
+              "id": 44931,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 60895,
+              "id": 54975,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 86423,
+              "id": 63672,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 76341,
+              "id": 69189,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 71140,
+              "id": 90271,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 67999,
+              "id": 12888,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 44210,
+              "id": 15543,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -560,77 +560,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "yqv3sdtinl8vsbrx12gjp0cf",
+      "id": 39498,
       "title": "Molecule 5 Route 5.2",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "h9x0r46408ookd4dq25w5p5e",
+          "id": "fa872xxq5u5g5awphj99d8yq",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 5: Route 5.2</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 5. You will now evaluate the 4 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "unma0az2bhogehiiumukwmp7",
+          "id": "raf5l2n21bsartljl0je8hhd",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F-1.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F/5F-1.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "qrrqvffoiz5vnan1ipgvjeqb",
+          "id": "glled66m80plxaa1mks2cgmq",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.2.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 74909,
+              "id": 64615,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 51452,
+              "id": 46540,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 38098,
+              "id": 36167,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 45748,
+              "id": 56654,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 40069,
+              "id": 69815,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 46253,
+              "id": 55504,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 21204,
+              "id": 95611,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 96057,
+              "id": 23403,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 87856,
+              "id": 84389,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 27993,
+              "id": 24089,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -647,64 +647,64 @@
           "titlePlainText": "Reaction 5.2.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "f3g0bun74upy67w70m8ivd6n",
+          "id": "mfkmyq0w629hrqdub0v3rjs6",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F-3.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F/5F-3.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "a4kisax6d2my1q8untts95qh",
+          "id": "ooyds5jaammz04064sa511n0",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.2.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 26487,
+              "id": 65302,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 18194,
+              "id": 89618,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 38362,
+              "id": 36983,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 48709,
+              "id": 22185,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 59993,
+              "id": 52586,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 72634,
+              "id": 18545,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 46623,
+              "id": 70863,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 69362,
+              "id": 95595,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 24692,
+              "id": 93947,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 38153,
+              "id": 48784,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -721,64 +721,64 @@
           "titlePlainText": "Reaction 5.2.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "ryfj5lbxibmcycfokynqyhas",
+          "id": "rpcks2o2mu03n5ra35avjhzi",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F/5F-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "l80u5kcju2d7cxoud6ahr4d1",
+          "id": "te0zejuq35jbt5896z3pmbk5",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.2.3: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 85538,
+              "id": 36894,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 94731,
+              "id": 21888,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 92583,
+              "id": 30718,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 95231,
+              "id": 28844,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 81430,
+              "id": 73028,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 76394,
+              "id": 46099,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 38682,
+              "id": 16131,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 93849,
+              "id": 71178,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 20112,
+              "id": 42973,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 68890,
+              "id": 28722,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -795,64 +795,64 @@
           "titlePlainText": "Reaction 5.2.3: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "jrcxk3edeumkvk3reb7cdytd",
+          "id": "elmkf5sagxu2yj871rpx6gdw",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F-4.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5F/5F-4.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "is4xws0iul1vejh384kl396o",
+          "id": "x3g78bzfomlbvv8x3tkdvmn0",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.2.4: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 68390,
+              "id": 44764,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 18506,
+              "id": 67312,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 61623,
+              "id": 13054,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 38081,
+              "id": 18262,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 96108,
+              "id": 69919,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 85770,
+              "id": 60023,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 87469,
+              "id": 12694,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 19322,
+              "id": 71519,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 98674,
+              "id": 77059,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 52618,
+              "id": 84068,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -869,39 +869,39 @@
           "titlePlainText": "Reaction 5.2.4: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "c7bloi22mrjzusous2zpll69",
+          "id": "mtxckb7yhgu2t9r0affi93hz",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/5F.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "jtrd4fzexqrzcx1cv4408kzi",
+          "id": "vx7vqtasg2ebspksrm7b8yfq",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.2: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 26288,
+              "id": 91351,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 16992,
+              "id": 65550,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 16249,
+              "id": 19289,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 49550,
+              "id": 41038,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 38949,
+              "id": 77258,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -918,42 +918,42 @@
           "titlePlainText": "Route 5.2: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "vfio1t7w98qam31ffktun66y",
+          "id": "c6hs0dhh6rlisw0lq08xpi5v",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.2: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 86949,
+              "id": 43415,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 88794,
+              "id": 50985,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 50017,
+              "id": 40652,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 80234,
+              "id": 48086,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 41409,
+              "id": 57731,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 24676,
+              "id": 32365,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 52183,
+              "id": 46045,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -976,77 +976,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "sudrogs13jlegr7ufculb1ld",
+      "id": 81501,
       "title": "Molecule 5 Route 5.3",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "mqu0frlx8pmzp40q038yy14r",
+          "id": "pnztatazdin0xrqjh6onr6lm",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 5: Route 5.3</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 5. You will now evaluate the 3 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "rl7z9jek8lzy2mdbqou1r5lf",
+          "id": "qnt6vixe92278fh0rwwica8v",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5B-4.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5B/5B-4.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "odo4u86o2f3le1uuk378o8sq",
+          "id": "tysw0sv4cs9aizfld2hwein9",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.3.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 46780,
+              "id": 35572,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 82513,
+              "id": 26750,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 29296,
+              "id": 95510,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 60311,
+              "id": 11323,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 75336,
+              "id": 35123,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 24960,
+              "id": 83823,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 83496,
+              "id": 19255,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 92913,
+              "id": 84589,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 55927,
+              "id": 78261,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 74224,
+              "id": 39275,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1063,64 +1063,64 @@
           "titlePlainText": "Reaction 5.3.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "s38yl0bfylc72i8x2qpdwqwb",
+          "id": "j84ozdx2zxrsn3z0itvwh2bo",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5B-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5B/5B-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ol5phr5gkl3cp644bt758pnr",
+          "id": "ld7t3xcvy1wc8p6bo620qj4n",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.3.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 45471,
+              "id": 57405,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 83575,
+              "id": 21365,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 16141,
+              "id": 19214,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 95898,
+              "id": 38694,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 68672,
+              "id": 31547,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 55792,
+              "id": 25783,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 74205,
+              "id": 68454,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 22185,
+              "id": 61041,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 30894,
+              "id": 60343,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 97223,
+              "id": 88571,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1137,64 +1137,64 @@
           "titlePlainText": "Reaction 5.3.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "pgcmym7cn3u051kdkkwe0l9x",
+          "id": "bgskh2y3hqf7egnk0l8ml0kk",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5B-1.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5B/5B-1.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "l8spcf4545xz9vkeksmyozna",
+          "id": "aou1la353zeszddnuha50gn1",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.3.3: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 39419,
+              "id": 20699,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 45496,
+              "id": 48225,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 64116,
+              "id": 88931,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 80102,
+              "id": 83059,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 96382,
+              "id": 79140,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 31551,
+              "id": 75286,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 62780,
+              "id": 60862,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 72132,
+              "id": 48421,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 68149,
+              "id": 69000,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 95982,
+              "id": 20927,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1211,39 +1211,39 @@
           "titlePlainText": "Reaction 5.3.3: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "kf2pwtu3bq1j263tsof2jola",
+          "id": "yw1134g4opwo4oqniv2cixyg",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/5B.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "lpubh34wqull00sk8qs799ui",
+          "id": "wn4xwt9d42du4juqsyfg946r",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.3: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 33046,
+              "id": 34321,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 73078,
+              "id": 49378,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 34539,
+              "id": 24777,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 58292,
+              "id": 25730,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 21831,
+              "id": 69929,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -1260,42 +1260,42 @@
           "titlePlainText": "Route 5.3: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "eu52wbn26xof5ulnqxgbiw9l",
+          "id": "b7dkvewdspc2gtly6hwt7163",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.3: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 42510,
+              "id": 56972,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 44354,
+              "id": 55124,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 87669,
+              "id": 89826,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 58229,
+              "id": 91023,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 60446,
+              "id": 24141,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 62138,
+              "id": 86612,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 19590,
+              "id": 76325,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1318,77 +1318,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "euntngzerre5czilxgao1ed2",
+      "id": 49318,
       "title": "Molecule 5 Route 5.4",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "yjwual3x8fdbp7t52wi6420x",
+          "id": "ol29vto9n1v4mpyg0ajdml43",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 5: Route 5.4</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 5. You will now evaluate the 8 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "r34q75vr2e6kvs3a08va2eo2",
+          "id": "ftxot3eio8ib56i136blxntg",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-3.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-3.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "rda403ot6e1jbgsx7s5co5j1",
+          "id": "oyhz4mkazj1wwy9uq8eikr1e",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 66921,
+              "id": 60015,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 42322,
+              "id": 16239,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 74670,
+              "id": 12030,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 41365,
+              "id": 98839,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 58530,
+              "id": 63942,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 22984,
+              "id": 22896,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 39969,
+              "id": 10334,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 18644,
+              "id": 28301,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 74338,
+              "id": 59501,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 20428,
+              "id": 67460,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1405,64 +1405,64 @@
           "titlePlainText": "Reaction 5.4.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "yayvhf6tv2x278bf4akrbr6l",
+          "id": "wg7ygw8u7kto8461xl503iwe",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-4.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-4.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "fuazhzvso1j26tyfkjbkbmic",
+          "id": "bbc7vf7fz39u5tdp2n46nkuu",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 14385,
+              "id": 94956,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 33080,
+              "id": 57204,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 68924,
+              "id": 93927,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 98280,
+              "id": 98053,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 17858,
+              "id": 87486,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 50505,
+              "id": 25434,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 25547,
+              "id": 57516,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 30496,
+              "id": 69074,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 49368,
+              "id": 92510,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 55470,
+              "id": 40919,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1479,64 +1479,64 @@
           "titlePlainText": "Reaction 5.4.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "vyhoitxaotjvkqjl26iiveaz",
+          "id": "cx1nlosnyh4wbgrsyg6xwa38",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-5.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-5.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ruxtclobub4gtfxbigsiyx7u",
+          "id": "eaztijhdmi5jfc9wgurj4a5k",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.3: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 43020,
+              "id": 54734,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 44947,
+              "id": 37316,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 57330,
+              "id": 34180,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 95076,
+              "id": 91114,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 36807,
+              "id": 66216,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 54827,
+              "id": 18196,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 57335,
+              "id": 29681,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 50052,
+              "id": 14008,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 38485,
+              "id": 28850,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 76962,
+              "id": 95310,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1553,64 +1553,64 @@
           "titlePlainText": "Reaction 5.4.3: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "acpr3g7eutnv1mxegdbsk1i1",
+          "id": "r3xjxtcy6y19zj9s8mkt6ge2",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-10.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-10.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "rgxlik555a6nj8mrpeqbliqv",
+          "id": "t9nxtz83u2bahxerne8x8qct",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.4: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 39887,
+              "id": 70299,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 50761,
+              "id": 58043,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 19904,
+              "id": 13167,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 46779,
+              "id": 32844,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 46560,
+              "id": 63681,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 10456,
+              "id": 78168,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 99668,
+              "id": 12367,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 52912,
+              "id": 15034,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 70951,
+              "id": 89568,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 74379,
+              "id": 35166,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1627,64 +1627,64 @@
           "titlePlainText": "Reaction 5.4.4: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "xkf43zvrobblcq47txue3y0v",
+          "id": "vz1gk3k4vs8hpammlgaoblfr",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 5</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-7.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 5</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-7.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "z6twngy6m3hkv2o8qww8bu81",
+          "id": "ckz2w1qlli5vziacf434gkir",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.5: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 19714,
+              "id": 61589,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 70395,
+              "id": 19406,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 86672,
+              "id": 40706,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 95870,
+              "id": 28407,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 52065,
+              "id": 88610,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 28344,
+              "id": 10553,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 68648,
+              "id": 38838,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 47699,
+              "id": 62633,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 88295,
+              "id": 81698,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 38257,
+              "id": 97132,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1701,64 +1701,64 @@
           "titlePlainText": "Reaction 5.4.5: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "cr1af3poalao43cpz15b42kl",
+          "id": "c5xqb34id3rmrskpxr829ob7",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 6</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-6.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 6</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-6.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ccz4i7so8vrqbmaay3hw9c69",
+          "id": "coz8aspc9pfbxtcao5g5qbj4",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.6: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 66140,
+              "id": 61250,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 54135,
+              "id": 33264,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 71251,
+              "id": 75869,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 61040,
+              "id": 34691,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 59587,
+              "id": 73481,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 82585,
+              "id": 31583,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 85267,
+              "id": 26196,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 31162,
+              "id": 21584,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 12363,
+              "id": 53459,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 54724,
+              "id": 94014,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1775,64 +1775,64 @@
           "titlePlainText": "Reaction 5.4.6: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "k4oofx4yjetsuflw3z8xczzh",
+          "id": "q3g1nwq7igsjg272twy03j8o",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 7</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-8.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 7</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-8.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "jka1oyyquj3zhowqrf6w1kq0",
+          "id": "iqm0g4s315b1myjafs9aiiyy",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.7: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 18743,
+              "id": 13296,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 61540,
+              "id": 93966,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 16068,
+              "id": 89208,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 22514,
+              "id": 72348,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 10559,
+              "id": 83268,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 93767,
+              "id": 62857,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 86217,
+              "id": 77871,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 72205,
+              "id": 79739,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 91394,
+              "id": 54356,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 45776,
+              "id": 62724,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1849,64 +1849,64 @@
           "titlePlainText": "Reaction 5.4.7: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "ivpufoas1vm23akvu09fqh49",
+          "id": "mg049g8an4px38rosbbgm57j",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 8</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L-9.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 8</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5L/5L-9.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "mo164u58ect4mten5o931ug5",
+          "id": "as7kj7uok3g9rhwyonhq33tw",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.4.8: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 76211,
+              "id": 96820,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 10032,
+              "id": 80674,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 39232,
+              "id": 55817,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 87186,
+              "id": 39854,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 80784,
+              "id": 60590,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 26548,
+              "id": 65315,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 11716,
+              "id": 87961,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 54775,
+              "id": 37389,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 51308,
+              "id": 67844,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 17553,
+              "id": 74147,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -1923,39 +1923,39 @@
           "titlePlainText": "Reaction 5.4.8: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "mhogflzvjqosirdbbich20w6",
+          "id": "x6wz32ow3u954vhbv95hsfm1",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/5L.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "o05cry8ffrvgpaxf9iv4xx3p",
+          "id": "mmsw1pri079lb32ks098kvju",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.4: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 33635,
+              "id": 81189,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 62947,
+              "id": 10310,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 32925,
+              "id": 43911,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 46173,
+              "id": 32609,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 10146,
+              "id": 64308,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -1972,42 +1972,42 @@
           "titlePlainText": "Route 5.4: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "deznw2aijqdciqpysvyrt0zd",
+          "id": "fal21wv5jjukm9qgrr5d2abo",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.4: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 41536,
+              "id": 27753,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 88472,
+              "id": 53110,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 41796,
+              "id": 31194,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 69927,
+              "id": 45498,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 74770,
+              "id": 13792,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 84740,
+              "id": 31352,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 84144,
+              "id": 16106,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2030,77 +2030,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "p58um2kw6kfdyuhc5crxq9ju",
+      "id": 91461,
       "title": "Molecule 5 Route 5.5",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "bl325b2p8h2zxt96kqgnuf50",
+          "id": "utxpic7kh5cj2ycklif46mn8",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 5: Route 5.5</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 5. You will now evaluate the 3 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "oh6r2ahytc0qfh4mnsejim7t",
+          "id": "rk07om9xck9j4t4ivben4wn0",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5M-1.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5M/5M-1.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "vk1pyu1hg9ktact7gns25dm9",
+          "id": "wfvz2bqkechb2waqiqfuujth",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.5.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 28662,
+              "id": 99416,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 85544,
+              "id": 65652,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 10054,
+              "id": 44530,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 96332,
+              "id": 66952,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 22307,
+              "id": 34932,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 96489,
+              "id": 89746,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 51890,
+              "id": 31463,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 61835,
+              "id": 64562,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 12474,
+              "id": 10995,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 21919,
+              "id": 32821,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2117,64 +2117,64 @@
           "titlePlainText": "Reaction 5.5.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "ona9j7p4plnaz96y9znim8fk",
+          "id": "qixsnvqr4tvkds5irhbwdack",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5M-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5M/5M-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "rauvku3emxyvbmjprlloeq17",
+          "id": "xm60ix40m6gyi6a15vb0iog6",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.5.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 30646,
+              "id": 27779,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 86569,
+              "id": 39361,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 11478,
+              "id": 19007,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 56624,
+              "id": 92129,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 96998,
+              "id": 45808,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 61810,
+              "id": 80542,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 90249,
+              "id": 17740,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 88381,
+              "id": 83059,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 22460,
+              "id": 30487,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 69227,
+              "id": 31497,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2191,64 +2191,64 @@
           "titlePlainText": "Reaction 5.5.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "d93bqy3kyp9bof6wfzeauqj6",
+          "id": "ydsnhw180o3bptk92nivju64",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5M-3.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/5M/5M-3.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "vxdfb6sowqurdwn7vn1k1vfn",
+          "id": "hd1ugaefqj3q6ztn6s9gbols",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 5.5.3: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 88790,
+              "id": 86966,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 55835,
+              "id": 29158,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 95672,
+              "id": 39535,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 55690,
+              "id": 28997,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 19707,
+              "id": 48122,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 39798,
+              "id": 46234,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 81470,
+              "id": 39733,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 27623,
+              "id": 41563,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 35021,
+              "id": 78315,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 69864,
+              "id": 72837,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2265,39 +2265,39 @@
           "titlePlainText": "Reaction 5.5.3: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "pfo012uyojkc4vbjyt4p3wcz",
+          "id": "mujulm6kzf8twu9mru17kprp",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/5M.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "njvaukwa9foiliy5zt9rfkqp",
+          "id": "anq9cxh5thx6z7mjz0sdbg5l",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.5: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 64872,
+              "id": 15812,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 28002,
+              "id": 29839,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 13485,
+              "id": 56470,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 23046,
+              "id": 87724,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 38749,
+              "id": 71921,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -2314,42 +2314,42 @@
           "titlePlainText": "Route 5.5: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "oelalpyxiwb1dzdi56kiu1aa",
+          "id": "tz6id8s9s6q0o8k1dk5payd7",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 5.5: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 37901,
+              "id": 16453,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 53298,
+              "id": 53731,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 18476,
+              "id": 46996,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 52545,
+              "id": 82056,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 26209,
+              "id": 21001,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 42393,
+              "id": 52369,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 53171,
+              "id": 85420,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2372,77 +2372,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "mmcuk84q056gcedtalt8hao8",
+      "id": 65314,
       "title": "Molecule 25 Route 25.1",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "o9z85pjgoraiwuvs2pb5bh4e",
+          "id": "sncl00bd0ryverd5149uakvo",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 25: Route 25.1</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 25. You will now evaluate the 5 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "uwp4ui7r5a55t6fbf0nomjem",
+          "id": "wl2t5v8egzeibbvip5pcs1eb",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P-3.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P/25P-3.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "dhmwt10fttvsfx4ry8scygqx",
+          "id": "apa6llz5r57os4fnof2vgpnd",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.1.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 54002,
+              "id": 54579,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 85471,
+              "id": 17212,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 20241,
+              "id": 65704,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 47039,
+              "id": 75855,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 37915,
+              "id": 56177,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 58492,
+              "id": 61177,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 64195,
+              "id": 81413,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 97250,
+              "id": 20992,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 68947,
+              "id": 40665,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 77581,
+              "id": 95937,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2459,64 +2459,64 @@
           "titlePlainText": "Reaction 25.1.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "xi4npwk4xodcz5q8qz1i0paf",
+          "id": "uerrmulo25yjh5zm9oenzd75",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P/25P-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "vrljbi6v1m68fsd4040kumta",
+          "id": "qa1e24qwcjcbyufu7pmdd7b1",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.1.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 87692,
+              "id": 36394,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 99155,
+              "id": 49217,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 95780,
+              "id": 87678,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 84598,
+              "id": 12800,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 60426,
+              "id": 36665,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 21727,
+              "id": 91077,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 41494,
+              "id": 96222,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 76274,
+              "id": 83565,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 37857,
+              "id": 17418,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 40935,
+              "id": 22770,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2533,64 +2533,64 @@
           "titlePlainText": "Reaction 25.1.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "gsc99d8ouhh4vci5uzqhgb05",
+          "id": "ryp1wig9mq0fu1b6t4cdzwdw",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P-1.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P/25P-1.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "la774djlqevxy2f5gv4pl77h",
+          "id": "zhd42hnibyhxi47f6ogodpap",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.1.3: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 89442,
+              "id": 85690,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 72291,
+              "id": 10073,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 44041,
+              "id": 39355,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 97115,
+              "id": 21864,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 83444,
+              "id": 99187,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 46951,
+              "id": 54375,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 18655,
+              "id": 45981,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 10096,
+              "id": 54184,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 83665,
+              "id": 41832,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 40592,
+              "id": 59542,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2607,64 +2607,64 @@
           "titlePlainText": "Reaction 25.1.3: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "wp8i9plk1wurtp0zbd4q89n8",
+          "id": "p7qskfva59b1t42yzwde22is",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P-5.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 4</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P/25P-5.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "r4q4p424n5xgu7zed7dik1ro",
+          "id": "xhuxo1ly5pwdad6y15g3zkk1",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.1.4: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 79417,
+              "id": 14408,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 13161,
+              "id": 56562,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 84827,
+              "id": 62481,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 81264,
+              "id": 70658,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 24641,
+              "id": 79494,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 19440,
+              "id": 68567,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 87099,
+              "id": 11742,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 96692,
+              "id": 60912,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 83175,
+              "id": 36639,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 18990,
+              "id": 46134,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2681,64 +2681,64 @@
           "titlePlainText": "Reaction 25.1.4: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "hfkliev53xx9ctkayj8sqn36",
+          "id": "qopzln0cn0t1u06afja86gk6",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 5</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P-4.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 5</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25P/25P-4.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "w2gmtk3988r64my7obplsdia",
+          "id": "oo6g5kh9q3gw7mgil89utkdg",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.1.5: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 77342,
+              "id": 60574,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 96987,
+              "id": 83741,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 97808,
+              "id": 12790,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 59454,
+              "id": 99229,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 73245,
+              "id": 92205,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 45401,
+              "id": 54871,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 87462,
+              "id": 32579,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 27373,
+              "id": 88442,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 94546,
+              "id": 92600,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 56663,
+              "id": 82064,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2755,39 +2755,39 @@
           "titlePlainText": "Reaction 25.1.5: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "gn9zs274cwkta73d99bwgvfg",
+          "id": "esmawqwbs51bzjhivtrhh0ff",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/25P.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ewj23sscydzih4sazi5vqbm1",
+          "id": "rm2w1y6mdussdnzvdip3aixs",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.1: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 58236,
+              "id": 75905,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 79973,
+              "id": 64384,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 12380,
+              "id": 94693,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 47095,
+              "id": 30966,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 72959,
+              "id": 31994,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -2804,42 +2804,42 @@
           "titlePlainText": "Route 25.1: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "tn7pgbba3xe19dte1n6eodl6",
+          "id": "wq45npdpduqdtk6luv47a44h",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.1: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 11755,
+              "id": 57020,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 64970,
+              "id": 11119,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 45663,
+              "id": 85327,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 30727,
+              "id": 56249,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 53241,
+              "id": 73496,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 92343,
+              "id": 56003,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 28518,
+              "id": 65642,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2862,77 +2862,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "jiasjkl1vp6y09qds18u5fj8",
+      "id": 40848,
       "title": "Molecule 25 Route 25.2",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "ehq7cyagy40m2adox7thsjws",
+          "id": "xfku1jpqc1tiiw1xfjd3oyoa",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 25: Route 25.2</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 25. You will now evaluate the 3 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "hfsxuu12h4vu59w8lvia0nlm",
+          "id": "y09shkdd2bxta5ckjjr60m3z",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25F-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25F/25F-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "h3ehh6s0rgoi8q8obg29kxer",
+          "id": "rl6rfx3qwfc9tis2zkz5tamg",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.2.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 21446,
+              "id": 79646,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 31642,
+              "id": 32589,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 50107,
+              "id": 37102,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 20918,
+              "id": 45500,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 29765,
+              "id": 28874,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 15687,
+              "id": 63506,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 99328,
+              "id": 21338,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 12899,
+              "id": 26152,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 22109,
+              "id": 43977,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 68196,
+              "id": 18621,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -2949,64 +2949,64 @@
           "titlePlainText": "Reaction 25.2.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "idgyo0f6otc8qho2y7f1fofx",
+          "id": "j2twjv0kmz3guu9nva664xxt",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25F-3.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25F/25F-3.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "lw8udwzjfywk1p204c5oxa12",
+          "id": "fo7kx0fo8mw5qdpw9bpmb4pp",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.2.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 48769,
+              "id": 35052,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 28806,
+              "id": 67972,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 21709,
+              "id": 99356,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 65210,
+              "id": 15007,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 49056,
+              "id": 73347,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 88298,
+              "id": 73522,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 19279,
+              "id": 49404,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 16797,
+              "id": 49034,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 60660,
+              "id": 64328,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 93999,
+              "id": 94820,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3023,64 +3023,64 @@
           "titlePlainText": "Reaction 25.2.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "jndemqeh8vrsjzr432kh3nic",
+          "id": "yvwalwvrhdpyo78ir53dfnin",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25F-1.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 3</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25F/25F-1.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "dqbaadmot50k48vrymozwi8b",
+          "id": "bgch6nj897g9y4jvm8mjqvus",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.2.3: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 77874,
+              "id": 34992,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 26886,
+              "id": 68097,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 26311,
+              "id": 15746,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 70765,
+              "id": 40443,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 36217,
+              "id": 89070,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 38020,
+              "id": 71700,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 12058,
+              "id": 72413,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 12543,
+              "id": 11041,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 43469,
+              "id": 23996,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 69839,
+              "id": 64136,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3097,39 +3097,39 @@
           "titlePlainText": "Reaction 25.2.3: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "d6krivp4pipug1352btrizj8",
+          "id": "xw5bpasqjclael7tr3hy001q",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/25F.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "jpwwgkjxlgukqxcrpt43v70c",
+          "id": "i6saztlxrlar7q8f58uakpzq",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.2: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 86237,
+              "id": 78619,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 43874,
+              "id": 15490,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 28796,
+              "id": 12875,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 93196,
+              "id": 72189,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 52014,
+              "id": 42270,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -3146,42 +3146,42 @@
           "titlePlainText": "Route 25.2: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "u2tqxy8lcj2brtcovw18cwoo",
+          "id": "hx1kz9l7m9a25v8apu96vkrd",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.2: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 59063,
+              "id": 49367,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 33439,
+              "id": 65839,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 84046,
+              "id": 33301,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 56303,
+              "id": 31899,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 19819,
+              "id": 88689,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 72209,
+              "id": 74459,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 52844,
+              "id": 45736,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3204,77 +3204,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "sv9hue50whgwe8rzbove2r8q",
+      "id": 93896,
       "title": "Molecule 25 Route 25.3",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "vjuzgo904lcaf4o9w6oosdac",
+          "id": "fru1eid3iem7dbnbg88qzqtt",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 25: Route 25.3</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 25. You will now evaluate the 2 reaction steps individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "hmhl2pux6e9fs0eingpf7bav",
+          "id": "mfq2b064if6y079ny6gqem3r",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25B-3.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25B/25B-3.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "h55lgdny1bq91lb4e28a0bmi",
+          "id": "arbgu9g68dpu4hkytgnwu099",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.3.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 52083,
+              "id": 17731,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 12221,
+              "id": 21874,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 86867,
+              "id": 43690,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 89261,
+              "id": 72481,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 86512,
+              "id": 99818,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 55165,
+              "id": 40214,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 27024,
+              "id": 33011,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 71910,
+              "id": 22694,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 72685,
+              "id": 54146,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 62794,
+              "id": 21838,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3291,64 +3291,64 @@
           "titlePlainText": "Reaction 25.3.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "x0h7phebqet1mrt7vcnyyfxe",
+          "id": "lqwpxwqtu548ffrpfy6h8fvs",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25B-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 2</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25B/25B-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "misycr713yeklq4rsc5ce7r1",
+          "id": "tz16zkdui4ate4oam9gofuj1",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.3.2: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 58437,
+              "id": 76867,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 60802,
+              "id": 51855,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 18856,
+              "id": 47389,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 47695,
+              "id": 25957,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 48485,
+              "id": 99662,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 36905,
+              "id": 25678,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 74822,
+              "id": 43631,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 65421,
+              "id": 53798,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 13136,
+              "id": 45591,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 40323,
+              "id": 29435,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3365,39 +3365,39 @@
           "titlePlainText": "Reaction 25.3.2: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "pq816z65e042mse1fkb92s3a",
+          "id": "lcrfkhn4pcsc7nrti0vdpugx",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/25B.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "tdk9wth571bnb6ortroyl87q",
+          "id": "h2bdqxf7ibjgdux5smagu7qs",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.3: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 41615,
+              "id": 75173,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 15495,
+              "id": 43861,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 79278,
+              "id": 56513,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 74070,
+              "id": 73198,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 48969,
+              "id": 54926,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -3414,42 +3414,42 @@
           "titlePlainText": "Route 25.3: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "h6b2cz9atbay9oymwbqn3c92",
+          "id": "g1ywa34hld5j5bc9cqbkcr6m",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.3: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 69145,
+              "id": 31191,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 88202,
+              "id": 64260,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 44392,
+              "id": 85139,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 37462,
+              "id": 69494,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 56482,
+              "id": 79603,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 99170,
+              "id": 35543,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 50561,
+              "id": 10318,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3472,77 +3472,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "bw5rhjap58q47m8bcx4fyi0u",
+      "id": 55541,
       "title": "Molecule 25 Route 25.4",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "b4ji584ep4u77r5pibphvdxp",
+          "id": "c0xmnyterxx8w7j719yyg3z4",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 25: Route 25.4</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 25. You will now evaluate the 1 reaction step individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "twpsocqk904byfmq7kfdpy1f",
+          "id": "k6tc85nj5dcv2x1bb1mxe1u0",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25L-2.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25L/25L-2.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ldn3sa7arbwflipsr8s2iion",
+          "id": "rrtkqwmnw83tznvd727ag011",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.4.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 48113,
+              "id": 78270,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 78056,
+              "id": 26888,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 89365,
+              "id": 87179,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 35558,
+              "id": 81768,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 26410,
+              "id": 83074,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 74839,
+              "id": 55439,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 17092,
+              "id": 19001,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 92526,
+              "id": 11446,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 22429,
+              "id": 89735,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 18847,
+              "id": 47297,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3559,39 +3559,39 @@
           "titlePlainText": "Reaction 25.4.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "ssfp93djfor3kae87421u7uc",
+          "id": "gh1iou606d6smx0i1hnbhj00",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/25L.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ks7qz2os1y7hzn3rslhozfia",
+          "id": "y2kbkpck1e69yquzxwb59052",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.4: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 74236,
+              "id": 13993,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 95828,
+              "id": 27316,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 87470,
+              "id": 15010,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 81477,
+              "id": 39248,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 64847,
+              "id": 75891,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -3608,42 +3608,42 @@
           "titlePlainText": "Route 25.4: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "adiucqgmcndjtruw2a2bwqx7",
+          "id": "tjww92pfn195y7t7chcov8hi",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.4: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 30770,
+              "id": 69597,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 57611,
+              "id": 50582,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 25524,
+              "id": 90572,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 17513,
+              "id": 50145,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 66530,
+              "id": 53835,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 85364,
+              "id": 92965,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 25090,
+              "id": 89905,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3666,77 +3666,77 @@
       "preventNewQuestions": false
     },
     {
-      "id": "ym4ujro69ee9oi6x3bi2g9d0",
+      "id": 21403,
       "title": "Molecule 25 Route 25.5",
       "isLocked": false,
       "isEditing": false,
       "questions": [
         {
-          "id": "xzih6yrtuzuegs7e34zn8vfc",
+          "id": "re990migt1n4blq46s19xh81",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Molecule 25: Route 25.5</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Below is a full synthetic route towards Molecule 25. You will now evaluate the 1 reaction step individually, followed by an assessment of the overall route.</span></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "ul1t1bclri7m67ht228zlonx",
+          "id": "b1r7q4mc50h546scfcg9vbgg",
           "type": "NOTE",
-          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25M-1.png\" width=\"800\" /></div></div><p></p>",
+          "content": "<p><strong>Reaction 1</strong></p><p></p><div style=\"display:flex\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/rxns/25M/25M-1.png\" width=\"800\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "i3iny8di1mdhoclrftcdwvzm",
+          "id": "l7l538qn9t25pm8s1fdujlmu",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Reaction 25.5.1: Select the MOST APPROPRIATE category for this reaction</span></p>",
           "values": [
             {
-              "id": 33634,
+              "id": 30498,
               "value": "Reaction feasible, all good - This is a standard, reliable transformation with extensive literature precedent.",
               "allowComments": false
             },
             {
-              "id": 22334,
+              "id": 70863,
               "value": "Reaction feasible, unexpected disconnection - The reaction would work but represents nontypical bond disconnection which is inventive and effective, but potentially less precedent.",
               "allowComments": false
             },
             {
-              "id": 96181,
+              "id": 21810,
               "value": "Non-optimal reagent - The exact reactant may not work in this reaction, but close analogues exist for this transformation with the same bond disconnection.",
               "allowComments": false
             },
             {
-              "id": 98948,
+              "id": 50285,
               "value": "Unnecessary step - The transformation adds complexity to the synthesis or may not work at all, but is unnecessary for the full route.",
               "allowComments": false
             },
             {
-              "id": 13630,
+              "id": 74682,
               "value": "Protecting group strategy is wrong / nonoptimal - The protecting group selection is flawed, unnecessary, or inefficient.",
               "allowComments": false
             },
             {
-              "id": 52725,
+              "id": 25896,
               "value": "Selectivity (regio-,stereo-, chemo-) issues - The reaction would face significant regio-, stereo-, or chemoselectivity challenges.",
               "allowComments": false
             },
             {
-              "id": 70619,
+              "id": 86921,
               "value": "Functional group compatibility problems - Incompatible functional groups are present in the reactant molecule that would interfere with the desired transformation.",
               "allowComments": false
             },
             {
-              "id": 21220,
+              "id": 70485,
               "value": "Unlikely disconnection - The proposed transformation is chemically impossible.",
               "allowComments": false
             },
             {
-              "id": 52925,
+              "id": 22735,
               "value": "Unsure",
               "allowComments": false
             },
             {
-              "id": 41762,
+              "id": 93149,
               "value": "Other (please specify)",
               "allowComments": true
             }
@@ -3753,39 +3753,39 @@
           "titlePlainText": "Reaction 25.5.1: Select the MOST APPROPRIATE category for this reaction"
         },
         {
-          "id": "jz81kxgmtfqxphm141qw60de",
+          "id": "gp5qmuth9kkwurrperyq1kc0",
           "type": "NOTE",
           "content": "<p><span style=\"color:rgb(31, 31, 31)\"><strong>Overall Route Assessment</strong></span></p><p></p><p><span style=\"color:rgb(31, 31, 31)\">Now please evaluate the complete synthetic route below.</span></p><p></p><div style=\"display:flex;justify-content:flex-start\"><div><img src=\"https://raw.githubusercontent.com/saratanov/multi_expert/main/data/routes/25M.png\" width=\"800\" style=\"justify-content:flex-start\" /></div></div><p></p>",
           "readonly": true,
           "isEditing": false
         },
         {
-          "id": "yh4mc2oup0155asvvybyfo18",
+          "id": "caxnkgohu0hyyo7opb3grndn",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.5: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:</span></p>",
           "values": [
             {
-              "id": 61214,
+              "id": 33664,
               "value": "Excellent — This is a high-quality, practical route I would confidently attempt in the lab",
               "allowComments": false
             },
             {
-              "id": 67277,
+              "id": 91432,
               "value": "Good — A solid route with minor issues; would likely succeed with standard optimisation",
               "allowComments": false
             },
             {
-              "id": 56048,
+              "id": 58386,
               "value": "Acceptable — A workable route but with several concerns; significant optimisation needed",
               "allowComments": false
             },
             {
-              "id": 31058,
+              "id": 33674,
               "value": "Poor — Major feasibility issues; unlikely to succeed without substantial modifications",
               "allowComments": false
             },
             {
-              "id": 44764,
+              "id": 49986,
               "value": "Not viable — This route contains critical flaws and would not be attempted",
               "allowComments": false
             }
@@ -3802,42 +3802,42 @@
           "titlePlainText": "Route 25.5: Considering the complete synthetic route as a whole, please rate the overall synthetic feasibility:"
         },
         {
-          "id": "dbx7w5jawdzocpy5g4e78cop",
+          "id": "uplsx33hvq63m5mxtwljctee",
           "type": "CHOICE",
           "title": "<p><span style=\"color:rgb(31, 31, 31)\">Route 25.5: Do you have any major concerns about the strategy or practicalities of this route as a whole? Select all that apply:</span></p>",
           "values": [
             {
-              "id": 71978,
+              "id": 45979,
               "value": "Poor disconnection strategy — Inefficient or illogical retrosynthetic disconnections",
               "allowComments": false
             },
             {
-              "id": 64883,
+              "id": 61604,
               "value": "Unnecessarily long route — Route has more steps than necessary to reach the target",
               "allowComments": false
             },
             {
-              "id": 90075,
+              "id": 53367,
               "value": "Poor convergence — Linear route where a convergent approach would be more efficient",
               "allowComments": false
             },
             {
-              "id": 71338,
+              "id": 34866,
               "value": "Illogical complexity building — Does not build molecular complexity in a sensible order",
               "allowComments": false
             },
             {
-              "id": 35292,
+              "id": 94504,
               "value": "Poor protecting group strategy — Inefficient or flawed use of protecting groups",
               "allowComments": false
             },
             {
-              "id": 36018,
+              "id": 80087,
               "value": "Poor (regio-,stereo-, chemo-) selectivity — High probability of side products",
               "allowComments": false
             },
             {
-              "id": 51781,
+              "id": 66928,
               "value": "Other (please specify)",
               "allowComments": true
             }

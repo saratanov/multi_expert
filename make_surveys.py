@@ -13,6 +13,7 @@ import json
 import copy
 import os
 from cuid2 import cuid_wrapper
+import random
 
 cuid = cuid_wrapper()
 
@@ -38,7 +39,7 @@ for mol_id in MOL_IDS:
     for split in SPLITS:
         try:
             rxn_imgs = os.listdir(f"{RXN_PATH}{mol_id}{split}")
-            rxns = [RXN_GIT_PATH + img for img in rxn_imgs if img.endswith(".png")]
+            rxns = [RXN_GIT_PATH + f"{mol_id}{split}/" + img for img in rxn_imgs if img.endswith(".png")]
             route_img = ROUTE_GIT_PATH + f"{mol_id}{split}.png"
             
             mol_routes.append({
@@ -103,7 +104,6 @@ TEMPLATE_PATH = "template.json"
 
 def make_choice_values(choices):
     """Assign fresh integer IDs to a list of choice dicts."""
-    import random
     used = set()
     result = []
     for c in choices:
@@ -235,7 +235,7 @@ def make_route_page(route: dict, question_counter: list) -> dict:
     question_counter[0] += 1
 
     return {
-        "id": cuid(),
+        "id": random.randint(10000, 99999),
         "title": f"{mol} Route {rnum}",
         "isLocked": False,
         "isEditing": False,
@@ -269,7 +269,6 @@ def make_survey(mol1, mol2):
     question_counter = [last_fixed_q + 1]
 
     # Build one page per route
-    print(ROUTES[mol1])
     route_pages = [make_route_page(r, question_counter) for r in ROUTES[mol1]+ROUTES[mol2]]
 
     survey["pages"] = fixed_pages + route_pages
