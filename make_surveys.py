@@ -36,19 +36,21 @@ for mol_id in MOL_IDS:
     route_num = 1
     mol_routes = []
     for split in SPLITS:
-        rxn_imgs = os.listdir(f"{RXN_PATH}{mol_id}{split}")
-        if rxn_imgs:
+        try:
+            rxn_imgs = os.listdir(f"{RXN_PATH}{mol_id}{split}")
             rxns = [RXN_GIT_PATH + img for img in rxn_imgs if img.endswith(".png")]
             route_img = ROUTE_GIT_PATH + f"{mol_id}{split}.png"
             
             mol_routes.append({
                 "molecule": f"Molecule {mol_id}",
-                "route_num": f"{split}.{route_num}",
+                "route_num": f"{mol_id}.{route_num}",
                 "steps": rxns,
                 "route_img": route_img,
             })
             
             route_num += 1
+        except:            
+            print(f"Warning: No data found for molecule {mol_id} split {split}. Skipping this route.")
     ROUTES[mol_id] = mol_routes
     
 
@@ -267,11 +269,12 @@ def make_survey(mol1, mol2):
     question_counter = [last_fixed_q + 1]
 
     # Build one page per route
+    print(ROUTES[mol1])
     route_pages = [make_route_page(r, question_counter) for r in ROUTES[mol1]+ROUTES[mol2]]
 
     survey["pages"] = fixed_pages + route_pages
 
-    out_path = f"survey_{mol1}_{mol2}.json"
+    out_path = f"surveys/survey_{mol1}_{mol2}.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(survey, f, ensure_ascii=False, indent=2)
 
@@ -279,11 +282,11 @@ def make_survey(mol1, mol2):
     print(f"   Fixed pages : {len(fixed_pages)}")
     print(f"   Route pages : {len(route_pages)}")
     print(f"   Total questions (numbered): {question_counter[0] - 1}")
-    for r in ROUTES:
+    for r in ROUTES[mol1]+ROUTES[mol2]:
         print(f"   • {r['molecule']} Route {r['route_num']} — {len(r['steps'])} steps")
 
 def main():
-    for i, mol1 in MOL_IDS:
+    for mol1 in MOL_IDS:
         for mol2 in MOL_IDS:
             if mol1 < mol2:
                 print(f"Generating survey for {mol1} and {mol2}...")
